@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f3f"
+  },
+  "nome": "Yuri Alberto",
+  "posicao": "Atacante",
+  "camisa": 9
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f40"
+  },
+  "nome": "Pedro Raul",
+  "posicao": "Atacante",
+  "camisa": 18
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f41"
+  },
+  "nome": "Kaio César",
+  "posicao": "Atacante",
+  "camisa": 37
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f42"
+  },
+  "nome": "Gui Negão",
+  "posicao": "Atacante",
+  "camisa": 56
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f43"
+  },
+  "nome": "Dieguinho",
+  "posicao": "Atacante",
+  "camisa": 61
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f44"
+  },
+  "nome": "Vitinho",
+  "posicao": "Atacante",
+  "camisa": 11
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f45"
+  },
+  "nome": "Rodrigo Garro",
+  "posicao": "Meio-Campo",
+  "camisa": 8
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f46"
+  },
+  "nome": "Breno Bidon",
+  "posicao": "Meio-Campo",
+  "camisa": 7
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f47"
+  },
+  "nome": "André",
+  "posicao": "Meio-Campo",
+  "camisa": 49
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f48"
+  },
+  "nome": "Zakarria Labyad",
+  "posicao": "Meio-Campo",
+  "camisa": 52
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f49"
+  },
+  "nome": "Jesse Lingard",
+  "posicao": "Meio-Campo",
+  "camisa": 77
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f4a"
+  },
+  "nome": "Mahteus Pereira",
+  "posicao": "Meio-Campo",
+  "camisa": 23
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f4b"
+  },
+  "nome": "Raniele",
+  "posicao": "Meio-Campo",
+  "camisa": 14
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f4c"
+  },
+  "nome": "Allan",
+  "posicao": "Meio-Campo",
+  "camisa": 29
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f4d"
+  },
+  "nome": "Charles",
+  "posicao": "Meio-Campo",
+  "camisa": 35
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f4e"
+  },
+  "nome": "Gustavo Henrique",
+  "posicao": "Zagueiro",
+  "camisa": 13
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f4f"
+  },
+  "nome": "Gabriel Paulista",
+  "posicao": "Zagueiro",
+  "camisa": 3
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f50"
+  },
+  "nome": "André Ramalho",
+  "posicao": "Zagueiro",
+  "camisa": 5
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f51"
+  },
+  "nome": "João Pedro Tchoca",
+  "posicao": "Zagueiro",
+  "camisa": 4
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f52"
+  },
+  "nome": "Mahteuzinho",
+  "posicao": "Lateral",
+  "camisa": 2
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f53"
+  },
+  "nome": "Matheus Bidu",
+  "posicao": "Lateral",
+  "camisa": 21
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f54"
+  },
+  "nome": "Pedro Milans",
+  "posicao": "Lateral",
+  "camisa": 20
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f55"
+  },
+  "nome": "Fabrizio Angileri",
+  "posicao": "Lateral",
+  "camisa": 26
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f56"
+  },
+  "nome": "Hugo Souza",
+  "posicao": "Goleiro",
+  "camisa": 1,
+  "funcao": "Capitão"
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f57"
+  },
+  "nome": "Felipe Longo",
+  "posicao": "Goleiro",
+  "camisa": 40
+},
+{
+  "_id": {
+    "$oid": "6a7e2a3aab931ad6d7158f58"
+  },
+  "nome": "Kauê",
+  "posicao": "Goleiro",
+  "camisa": 51
+},
+{
+  "_id": {
+    "$oid": "6a7e2a93ab931ad6d7158f59"
+  },
+  "nome": "Fernando Diniz",
+  "posicao": "Técnico"
+}]
